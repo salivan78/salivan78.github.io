@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weight-test/static/css/main.94016fe4.css",
+    "main.js": "/weight-test/static/js/main.6ae2d0cd.js",
+    "static/js/787.2616d46f.chunk.js": "/weight-test/static/js/787.2616d46f.chunk.js",
+    "static/media/Meat_products_Bread.jpg": "/weight-test/static/media/Meat_products_Bread.614e4fd3fd6ec0950849.jpg",
+    "index.html": "/weight-test/index.html",
+    "main.94016fe4.css.map": "/weight-test/static/css/main.94016fe4.css.map",
+    "main.6ae2d0cd.js.map": "/weight-test/static/js/main.6ae2d0cd.js.map",
+    "787.2616d46f.chunk.js.map": "/weight-test/static/js/787.2616d46f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94016fe4.css",
+    "static/js/main.6ae2d0cd.js"
+  ]
+}
