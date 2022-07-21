@@ -1,0 +1,67 @@
+.navbar {
+    grid-area: navbar;
+    width: 100%;
+    background-size: cover;
+}
+.text {
+    color: white;
+}
+
+.navbar div {
+    display: inline-block;
+    /*display: flex;*/
+    /*float: left;*/
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.button_operation a {
+    text-decoration: none;
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+}
+
+.button_operation {
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(0,0,128);
+    width: 200px;
+    height: 120px;
+    text-align: center;
+    background-color: rgb(25,25,255);
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+}
+
+.button_operation:hover {
+    border-color: rgb(25,25,255);
+    background-color: rgb(0,0,128);
+    font-size: large;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+}
+
+.button_information a {
+    text-decoration: none;
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+}
+
+.button_information {
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(183,65,11);
+    width: 200px;
+    height: 120px;
+    text-align: center;
+    background-color: rgb(255,112,41);
+    color: white;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.75);
+}
+
+.button_information:hover {
+    border-color: rgb(255,112,41);
+    background-color: rgb(183,65,11);
+    font-size: large;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
+}

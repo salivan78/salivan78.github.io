@@ -1,0 +1,13 @@
+.header {
+    grid-area: header;
+    /*background-size: cover;*/
+    /*height: 100px;*/
+}
+
+.header div {
+    display: inline-block;
+}
+
+.header_text {
+    color: white;
+}

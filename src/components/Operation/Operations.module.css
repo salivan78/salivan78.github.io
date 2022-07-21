@@ -1,0 +1,20 @@
+.operation {
+    width: 100%;
+    background-size: cover;
+}
+
+.text {
+    color: white;
+}
+
+.operation a {
+    /*float: left;*/
+    /*text-decoration: none;*/
+    /*color: white;*/
+    /*display: block;*/
+}
+
+.content div {
+    display: inline-block;
+    margin: 0 0 30px 30px;
+}
